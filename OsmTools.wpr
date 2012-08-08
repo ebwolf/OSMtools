@@ -1,0 +1,11 @@
+#!wing
+#!version=4.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('osmapi.py'),
+                  loc('osmplanet.py'),
+                  loc('README.txt'),
+                  loc('__init__.py')]
+proj.file-type = 'shared'
